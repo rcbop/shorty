@@ -1,0 +1,29 @@
+# Binaries
+/bin/
+url-shortener
+
+# Dependency directories
+/vendor/
+
+# Environment variables file
+.env
+
+# Compiled Object files, Static and Dynamic libs (Windows)
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Log files
+*.log
+
+# macOS Finder directory settings
+.DS_Store
+
+# Go generated files
+_test
+_obj
+_testmain.go
+
+# Mage generated files
+magefile_output/
